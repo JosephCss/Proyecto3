@@ -78,7 +78,7 @@ Después de que la señal de audio ha sido amplificada por el LM386, se envía a
 
 VIDEO:
 
-LINK: https://www.youtube.com/watch?v=7U0o1pMvK42
+LINK: https://www.youtube.com/watch?v=7q9QVyzZhBI&t=13s&ab_channel=JosephFrancisco
 
 CONCLUSIONES:
 
