@@ -63,6 +63,8 @@ Paso 10: Conectamos la bocina, un cable al lado negativo del condensador y el ot
 
 Paso 11: Conectamos la fuente de voltaje a 9.5 V, y de igual forma nuestro reproductor de música (teléfono celular)
 
+![image](https://user-images.githubusercontent.com/117742027/222332341-6f245023-b3b6-4c45-b234-0e95529d0349.png)
+
 
 FUNCIONAMIENTO:
 
